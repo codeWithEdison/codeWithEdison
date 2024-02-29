@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on UI/UX using modern framework<br>👯 I’m looking to collaborate on big data Web based System<br>🤝 I’m looking for help with frontend challenge<br>🌱 I’m currently learning Advanced concept on WEB<br>💬 Ask me about how User Can Enjoy your system<br>⚡ Fun fact - Coffee is the holy elixir keeping me alive. ☕
-
+ <img src = "https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif">
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/uwihanganye.edisonklavan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/codewith_edison/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in.com/in/uwihanganye-edison-7b2970236/) 
@@ -30,5 +30,4 @@
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/codewithedison) 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ 
