@@ -1,15 +1,17 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi 👋, I'm codeWithEdison</h1>
-<h3 align="center">full stack developer specialized in modern Front end development and UI/UX designer</h3>
-- 🔭 I’m currently working on [Asset Management Sytem](https://github.com/Binary-Hub-University-of-Rwanda-CST/asset-management-system-front)
-- 👯 I’m looking to collaborate on **Start up and Open Source Project**
-- 🤝 I’m looking for help with **develop open source react , typescript & Tailwind css UI Plugin**
-- 🌱 I’m currently learning **Next js & React native**
-- 💬 Ask me about **React , typescript, tailwind css**
-- 📫 How to reach me **edsnkvn@gmail.com**
-- 👨‍💻 All of my projects are available at **https://codewithedison.github.io/codeWithEdison-portifolio/**
-- 📄 Know about my experiences **https://www.linkedin.com/in/uwihanganye-edison-7b2970236/**
-- ⚡ Fun fact **AI will never Replace me**
+<h1 align="center">Hi 👋, I'm Edison</h1> <br>
+<h3 align="center"> Front end developer and UI/UX designer</h3> <br/>
+- 🔭 I’m currently working on
+<a href="https://github.com/Binary-Hub-University-of-Rwanda-CST/asset-management-system-front" target="_blank">
+Asset Management Sytem </a> <br/>
+- 👯 I’m looking to collaborate on  <b> Start up and Open Source Project</b> <br/>
+- 🤝 I’m looking for help with <b>develop open source react , typescript & Tailwind css UI Plugin</b> <br/>
+- 🌱 I’m currently learning <b>Next js & React native</b> <br/>
+- 💬 Ask me about <b> React , typescript, tailwind css</b> <br/>
+- 📫 How to reach me  <i>edsnkvn@gmail.com</i> <br/>
+- 👨‍💻 All of my projects are available at <a href ="https://codewithedison.github.io/codeWithEdison-portifolio/"> my Portifolio </a> <br/>
+- 📄 Know about my experiences <a href = "https://www.linkedin.com/in/uwihanganye-edison-7b2970236/">my Resume</a> <br/>
+- ⚡ Fun fact <b> AI will never Replace me</b> <br/>
 
 <div> <a href="https://www.linkedin.com/in/uwihanganye-edison-7b2970236" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/codeWithEdison" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
