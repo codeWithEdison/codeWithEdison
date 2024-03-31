@@ -1,9 +1,9 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Edison</h1> <br>
 <h3 align="center"> Front end developer and UI/UX designer</h3> <br/>
-- 🔭 I’m currently working on
-<a href="https://github.com/Binary-Hub-University-of-Rwanda-CST/asset-management-system-front" target="_blank">
-Asset Management Sytem </a> <br/>
+- 🔭 I’m currently working as 
+<a href="#" target="_blank">
+software development  TRAINER  at <b>Natcom ICT and Training Centre</b> </a> <br/>
 - 👯 I’m looking to collaborate on  <b> Start up and Open Source Project</b> <br/>
 - 🤝 I’m looking for help with <b>develop open source react , typescript & Tailwind css UI Plugin</b> <br/>
 - 🌱 I’m currently learning <b>Next js & React native</b> <br/>
