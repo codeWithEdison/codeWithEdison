@@ -1,19 +1,18 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Edison</h1> <br>
-<h3 align="center"> Front end developer and UI/UX designer</h3> <br/>
-- 🔭 I’m currently working as 
+<h3 align="center"> Full Stack  developer</h3> <br/>
+- 🔭 I’m currently Learning and make Research in 
 <a href="#" target="_blank">
-software development  TRAINER  at <b>Natcom ICT and Training Centre</b> </a> <br/>
-- 👯 I’m looking to collaborate on  <b> Start up and Open Source Project</b> <br/>
-- 🤝 I’m looking for help with <b>develop open source react , typescript & Tailwind css UI Plugin</b> <br/>
-- 🌱 I’m currently learning <b>Next js & React native</b> <br/>
-- 💬 Ask me about <b> React , typescript, tailwind css</b> <br/>
+AI/ ML / NLP </b> </a> <br/>
+- 🤝 I’m looking for help   with <b>Youth to be active in this Generation of Tech</b> <br/>
+- 🌱 I’m currently learning <b> AI /ML</b> <br/>
+- 💬 Ask me about <b> React , typescript, tailwind css,  node js, </b> <br/>
 - 📫 How to reach me  <i>edsnkvn@gmail.com</i> <br/>
 - 👨‍💻 All of my projects are available at <a href ="https://codewithedison.github.io/codeWithEdison-portifolio/"> my Portifolio </a> <br/>
-- 📄 Know about my experiences <a href = "https://www.linkedin.com/in/uwihanganye-edison-7b2970236/">my Resume</a> <br/>
 - ⚡ Fun fact <b> AI will never Replace me</b> <br/>
 
-<div> <a href="https://www.linkedin.com/in/uwihanganye-edison-7b2970236" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div>
+  <a href="https://www.linkedin.com/in/uwihanganye-edison-7b2970236" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/codeWithEdison" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/codewith_edison" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:edsnkvn@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
