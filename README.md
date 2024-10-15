@@ -1,15 +1,13 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Edison</h1> <br>
-<h3 align="center"> Full Stack  developer</h3> <br/>
+<h3 align="center"> Full Stack  developer -  AI/ML/NLP Enthusiast</h3> <br/>
 - 🔭 I’m currently Learning and make Research in 
 <a href="#" target="_blank">
-AI/ ML / NLP </b> </a> <br/>
-- 🤝 I’m looking for help   with <b>Youth to be active in this Generation of Tech</b> <br/>
-- 🌱 I’m currently learning <b> AI /ML</b> <br/>
-- 💬 Ask me about <b> React , typescript, tailwind css,  node js, </b> <br/>
+AI/ ML / NLP - BlockChain   </b> </a> <br/>
+- 🤝 I’m looking to help   with <b> Young Generation  to be pro  active in this Generation of Tech</b> <br/>
 - 📫 How to reach me  <i>edsnkvn@gmail.com</i> <br/>
 - 👨‍💻 All of my projects are available at <a href ="https://codewithedison.github.io/codeWithEdison-portifolio/"> my Portifolio </a> <br/>
-- ⚡ Fun fact <b> AI will never Replace me</b> <br/>
+- ⚡ Fun fact <b> one day i will make artificial me</b> <br/>
 
 <div>
   <a href="https://www.linkedin.com/in/uwihanganye-edison-7b2970236" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
