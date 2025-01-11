@@ -35,8 +35,8 @@ const vision = {
 <h2>💼 Professional Impact</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=codeWithEdison&repo=IRIMS-Portal&theme=react&bg_color=0D1117&border_color=00C4CC&title_color=00C4CC&icon_color=6C63FF" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=codeWithEdison&repo=HIV-TB-Dashboard&theme=react&bg_color=0D1117&border_color=00C4CC&title_color=00C4CC&icon_color=6C63FF" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=codeWithEdison&repo=irims-portal-v2&theme=react&bg_color=0D1117&border_color=00C4CC&title_color=00C4CC&icon_color=6C63FF" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=codeWithEdison&repo=HIV-TV-co-infection&theme=react&bg_color=0D1117&border_color=00C4CC&title_color=00C4CC&icon_color=6C63FF" />
 </div>
 
 <details>
