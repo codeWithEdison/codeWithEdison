@@ -137,18 +137,66 @@
   </div>
 
   <!-- HIV-TB Dashboard Card -->
-  <div style="display: inline-block; margin: 10px; padding: 20px; background-color: #0D1117; border: 1px solid #6C63FF; border-radius: 6px; width: 45%;">
-    <h3 style="color: #6C63FF;">🔬 HIV-TB Co-infection Dashboard</h3>
-    <p style="color: #FFFFFF;">Advanced Disease Monitoring & Analytics Platform</p>
-    <img src="https://img.shields.io/badge/Type-Healthcare_Analytics-6C63FF?style=for-the-badge&logoColor=white"/>
-    <p>
-      <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-    </p>
-    <p style="color: #888;">Mathematical modeling & visualization for disease monitoring</p>
+  <div style="background: linear-gradient(135deg, #0D1117 0%, #142334 100%); border: 1px solid #6C63FF; border-radius: 10px; padding: 25px; width: 340px;">
+    <div style="display: flex; align-items: center; margin-bottom: 15px;">
+      <span style="font-size: 32px; margin-right: 15px;">🔬</span>
+      <h3 style="color: #6C63FF; margin: 0;">HIV-TB Co-infection Dashboard</h3>
+    </div>
+    <img src="https://img.shields.io/badge/Healthcare_Analytics-6C63FF?style=for-the-badge&logoColor=white"/>
+    <p style="color: #FFFFFF; margin: 15px 0;">Advanced disease monitoring with mathematical modeling</p>
+    <div style="display: flex; flex-wrap: wrap; gap: 5px; margin-top: 15px;">
+      <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+    </div>
+    <p style="color: #888; margin-top: 15px;">🎯 Real-time analytics & predictive modeling</p>
   </div>
+</div>
+
+<h2>💻 Technology Stack</h2>
+
+<div align="center">
+  <h4>Languages & Core</h4>
+  <img src="https://skillicons.dev/icons?i=ts,python,java,php,solidity" />
+  
+  <h4>Frontend & Design</h4>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,materialui,spring" />
+  
+  <h4>Backend & Database</h4>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,postgres,mysql" />
+  
+  <h4>AI/ML & DevOps</h4>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,aws,docker,git" />
+</div>
+
+<h2>📊 GitHub Analytics</h2>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=codeWithEdison&show_icons=true&theme=react&bg_color=0D1117&hide_border=true&title_color=00C4CC&icon_color=6C63FF&text_color=FFFFFF" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=codeWithEdison&theme=react&background=0D1117&hide_border=true&ring=00C4CC&fire=6C63FF&currStreakLabel=00C4CC&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=codeWithEdison&custom_title=Edison's%20Contribution%20Graph&bg_color=0D1117&color=00C4CC&line=6C63FF&point=FFFFFF&hide_border=true" />
+</div>
+
+<h2>🤝 Let's Connect!</h2>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/uwihanganye-edison-7b2970236">
+    <img src="https://img.shields.io/badge/Let's_Connect!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://codewithedison.github.io/codeWithEdison-portifolio/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:edsnkvn@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4CC,50:2C98F0,100:6C63FF&height=100&section=footer" width="100%"/>
 </div>
 
 <h2>💻 Technology Stack</h2>
