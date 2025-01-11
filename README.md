@@ -25,11 +25,11 @@
 
 <kbd>
 <div align="center">
-  <h3>🏥 Healthcare Solutions</h3>
-  <b>Building scalable enterprise systems for healthcare sector</b>
+  <h3>🚀 Enterprise Solutions</h3>
+  <b>Building scalable systems that transform businesses</b>
   <br><br>
-  <img src="https://img.shields.io/badge/Focus-Enterprise_Systems-00C4CC?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Impact-National_Level-00C4CC?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Focus-Scalable_Systems-00C4CC?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Impact-Enterprise_Level-00C4CC?style=flat-square"/>
 </div>
 </kbd>&nbsp;&nbsp;
 
