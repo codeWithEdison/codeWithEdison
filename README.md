@@ -35,8 +35,29 @@ const vision = {
 <h2>💼 Professional Impact</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=codeWithEdison&repo=irims-portal-v2&theme=react&bg_color=0D1117&border_color=00C4CC&title_color=00C4CC&icon_color=6C63FF" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=codeWithEdison&repo=HIV-TV-co-infection&theme=react&bg_color=0D1117&border_color=00C4CC&title_color=00C4CC&icon_color=6C63FF" />
+  <!-- IRIMS Portal Card -->
+  <div style="display: inline-block; margin: 10px; padding: 15px; background-color: #0D1117; border: 1px solid #00C4CC; border-radius: 6px; width: 45%;">
+    <h3 style="color: #00C4CC;">🏥 IRIMS Portal v2</h3>
+    <p style="color: #FFFFFF;">National Regulatory Management System for Rwanda FDA</p>
+    <img src="https://img.shields.io/badge/Type-Enterprise_Healthcare-00C4CC?style=for-the-badge&logoColor=white"/>
+    <p>
+      <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+    </p>
+  </div>
+
+  <!-- HIV-TB Dashboard Card -->
+  <div style="display: inline-block; margin: 10px; padding: 15px; background-color: #0D1117; border: 1px solid #6C63FF; border-radius: 6px; width: 45%;">
+    <h3 style="color: #6C63FF;">🔬 HIV-TB Dashboard</h3>
+    <p style="color: #FFFFFF;">Advanced Disease Monitoring & Analytics Platform</p>
+    <img src="https://img.shields.io/badge/Type-Healthcare_Analytics-6C63FF?style=for-the-badge&logoColor=white"/>
+    <p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+    </p>
+  </div>
 </div>
 
 <details>
