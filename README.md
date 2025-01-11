@@ -16,123 +16,89 @@
 
 ### 🎯 Tech Universe
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,python,php,java,solidity" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,spring,tailwind,materialui" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,postgres,mongodb" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,aws,docker,git" />
+</div>
+
 ```typescript
-const edison = {
-    languages: ["TypeScript", "Python", "PHP", "Java", "Solidity"],
-    frontend: {
-        frameworks: ["React", "Next.js", "Spring Boot"],
-        styling: ["Tailwind CSS", "SCSS", "Material UI"],
-        state: ["Redux", "Context API"]
-    },
-    backend: {
-        node: ["Express", "NestJS"],
-        java: ["Spring Boot", "Spring Security"],
-        php: ["Laravel"]
-    },
-    databases: {
-        sql: ["PostgreSQL", "MySQL"],
-        nosql: ["MongoDB", "Redis"],
-        orm: ["Prisma", "TypeORM", "Hibernate"]
-    },
-    ai_ml: {
-        frameworks: ["TensorFlow", "Scikit-learn"],
-        tools: ["MATLAB", "Jupyter"],
-        focus: ["Healthcare Analytics", "Predictive Modeling"]
-    },
-    blockchain: {
-        networks: ["Ethereum", "Polygon"],
-        tools: ["Web3.js", "Ethers.js", "Hardhat"]
-    },
-    devops: ["Docker", "AWS", "CI/CD", "Git"]
+const passions = {
+    enterprise: "Building Scalable Solutions 🏢",
+    innovation: "AI & Blockchain Integration 🔮",
+    impact: "Healthcare Tech Revolution 🏥",
+    mission: "Knowledge Sharing & Mentoring 📚"
 };
 ```
 
-### 🚀 Project Showcase
+### 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">IRIMS Portal v2</h3>
+<div align="center">
+
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=codeWithEdison&repo=IRIMS-Portal&theme=react&bg_color=0D1117&border_color=00C4CC&title_color=2C98F0&icon_color=6C63FF"/>
+</a>
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=codeWithEdison&repo=HIV-TB-Dashboard&theme=react&bg_color=0D1117&border_color=00C4CC&title_color=2C98F0&icon_color=6C63FF"/>
+</a>
+
+</div>
+
+<div align="center">
+  <details>
+    <summary><b>🌟 Explore More Projects</b></summary>
+    <br/>
+    <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem;">
+      <!-- IRIMS Portal -->
       <div align="center">
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/Type-Enterprise_Healthcare-00C4CC?style=for-the-badge&logoColor=white" />
-        </a>
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/Scale-National-2C98F0?style=for-the-badge&logoColor=white" />
-        </a>
+        <img src="https://img.shields.io/badge/IRIMS_Portal-National_Healthcare_System-00C4CC?style=for-the-badge&logo=health&logoColor=white"/>
         <p>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" />
-            <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-            <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-            <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-          </a>
+          <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" />
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+          <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
         </p>
-        <p><strong>National Regulatory Management System for Rwanda FDA</strong></p>
+        <p>📊 National-level regulatory management system</p>
       </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">HIV-TB Dashboard</h3>
+      
+      <!-- HIV-TB Dashboard -->
       <div align="center">
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/Type-Healthcare_Analytics-6C63FF?style=for-the-badge&logoColor=white" />
-        </a>
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/Impact-Research-00C4CC?style=for-the-badge&logoColor=white" />
-        </a>
+        <img src="https://img.shields.io/badge/HIV--TB_Dashboard-Healthcare_Analytics-6C63FF?style=for-the-badge&logo=analytics&logoColor=white"/>
         <p>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-            <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-            <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-            <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-          </a>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
         </p>
-        <p><strong>Advanced Disease Monitoring & Analytics Platform</strong></p>
+        <p>🔬 Advanced disease monitoring analytics</p>
       </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">UR-AMS</h3>
+      
+      <!-- UR-AMS -->
       <div align="center">
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/Type-Enterprise_Management-2C98F0?style=for-the-badge&logoColor=white" />
-        </a>
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/Scale-Multi_Campus-00C4CC?style=for-the-badge&logoColor=white" />
-        </a>
+        <img src="https://img.shields.io/badge/UR--AMS-Enterprise_Management-2C98F0?style=for-the-badge&logo=building&logoColor=white"/>
         <p>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-            <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-            <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-          </a>
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+          <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
         </p>
-        <p><strong>University of Rwanda Asset Management System</strong></p>
+        <p>🏢 Multi-campus asset management system</p>
       </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">CareSphere DApp</h3>
+      
+      <!-- CareSphere -->
       <div align="center">
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/Type-Blockchain_Healthcare-6C63FF?style=for-the-badge&logoColor=white" />
-        </a>
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/Innovation-Web3-00C4CC?style=for-the-badge&logoColor=white" />
-        </a>
+        <img src="https://img.shields.io/badge/CareSphere-Blockchain_Healthcare-00C4CC?style=for-the-badge&logo=ethereum&logoColor=white"/>
         <p>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
-            <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white" />
-            <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-          </a>
+          <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
+          <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white" />
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
         </p>
-        <p><strong>Decentralized Healthcare Management Platform</strong></p>
+        <p>⛓️ Decentralized healthcare platform</p>
       </div>
-    </td>
-  </tr>
-</table>
+    </div>
+  </details>
+</div>
 
 ### 💻 Skills Arsenal
 
@@ -173,8 +139,12 @@ const edison = {
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=codeWithEdison&show_icons=true&count_private=true&hide_border=true&title_color=00C4CC&icon_color=00C4CC&text_color=c9d1d9&bg_color=0d1117" alt="Edison's github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=codeWithEdison&hide_border=true&stroke=00C4CC&background=0D1117&ring=00C4CC&fire=2C98F0&currStreakLabel=2C98F0" alt="Edison's streak"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=codeWithEdison&show_icons=true&count_private=true&hide_border=true&title_color=00C4CC&icon_color=6C63FF&text_color=FFFFFF&bg_color=0D1117" alt="Edison's github stats" /> 
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=codeWithEdison&hide_border=true&stroke=00C4CC&background=0D1117&ring=00C4CC&fire=6C63FF&currStreakLabel=00C4CC&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Edison's streak"/>
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=codeWithEdison&bg_color=0D1117&color=00C4CC&line=6C63FF&point=FFFFFF&hide_border=true" />
 </div>
 
 ### 🤝 Let's Connect!
