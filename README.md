@@ -1,49 +1,99 @@
-<h1 align="center">Hi there, I'm Edison 👋</h1>
+# <div align="center">👋 Hello, I'm Edison</div>
 
-<h3 align="center">Building the future with code | Full Stack Developer | AI & Blockchain Explorer</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Enterprise+Solutions+Architect;AI+%26+Blockchain+Innovator;Educational+Technology+Leader;Empowering+Through+Knowledge+Sharing" alt="Typing SVG" />
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=codeWithEdison&color=blue" alt="Profile views" />
-  <!-- Add other relevant badges here -->
-</p>
+  <a href="https://www.linkedin.com/in/uwihanganye-edison-7b2970236">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:edsnkvn@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" alt="Email" />
+  </a>
+</div>
 
-### About Me 🚀
-I'm a passionate Full Stack Developer specializing in AI/ML and Blockchain technologies. With a focus on innovative solutions, I bridge the gap between cutting-edge technology and practical applications.
+## 💫 About Me
 
-- 🔭 Currently researching: Advanced AI/ML applications & Blockchain solutions
-- 🌱 Leading initiatives to empower the next generation of tech professionals
-- 💡 Building: [Project Name] - [Brief Description]
-- 📚 Mentoring: Young developers in modern tech stack
+> *"Niba ubumenyi butuma ubaho nawe tuma bubaho"*  
+> *(If knowledge allows you to live, make it live too)*
 
-  ### Featured Projects 💻
+I'm a Full Stack Developer and Enterprise Solutions Architect with a passion for combining technical innovation with educational impact. With expertise spanning enterprise systems, AI/ML, and blockchain, I focus on building scalable solutions while empowering others through knowledge sharing.
 
-<a href="[project-link]">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codeWithEdison&repo=[repo-name]&theme=tokyonight" />
-</a>
+- 🏗️ **Currently Building:** Advanced healthcare analytics systems & blockchain solutions
+- 📚 **Mentoring:** 500+ developers in modern tech stack
+- 🌱 **Learning:** Advanced AI/ML applications in healthcare
+- 🎯 **Mission:** Empowering the next generation through technology and education
 
-### Technology Stack 🛠️
+## 🚀 Professional Journey
 
-#### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+### 🏢 Enterprise & Government Systems
+- **IRIMS Portal v2** - Rwanda FDA
+  - National-level regulatory management system
+  - `Next.js` `Node.js` `PostgreSQL` `Redis` `AWS` `Docker`
+- **UR-AMS** - University of Rwanda
+  - Enterprise-wide asset management system
+  - `React` `Node.js` `PostgreSQL`
+- **MEDI STOCK** - UR Holding Group
+  - Comprehensive stock management solution
+  - `React` `Node.js` `PostgreSQL` `Docker`
 
-#### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+### 🔬 Healthcare & Research
+- **HIV-TB Co-Infection Dashboard**
+  - Advanced disease monitoring analytics
+  - `MATLAB` `React` `Python` `TensorFlow` `Node.js` `PostgreSQL`
 
-#### Backend & Database
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+### ⛓️ Blockchain Innovations
+- **CareSphere DApp** - Healthcare management
+- **Balance DApp** - Decentralized wallet system
 
-### GitHub Activity ✨
+## 🛠️ Technical Arsenal
 
-<p align="center">
+<div align="center">
+
+### Core Technologies
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+### AI & Data
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+
+### Database & DevOps
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+</div>
+
+## 📈 GitHub Analytics
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeWithEdison&theme=tokyonight" alt="GitHub Streak" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeWithEdison&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
 
-### Let's Connect! 🤝
-I'm always interested in collaborating on innovative projects and discussing new technologies.
+## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/uwihanganye-edison-7b2970236)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge)](https://codewithedison.github.io/codeWithEdison-portifolio/)
+I'm passionate about collaborating on innovative projects and sharing knowledge. Whether you're interested in enterprise solutions, AI/ML applications, or educational technology, I'd love to connect!
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/uwihanganye-edison-7b2970236">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://codewithedison.github.io/codeWithEdison-portifolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=github" alt="Portfolio" />
+  </a>
+  <a href="mailto:edsnkvn@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+</div>
+
+---
+<div align="center">
+<i>"Knowledge is good when shared and has value when applied"</i>
+</div>
