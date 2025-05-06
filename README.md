@@ -12,6 +12,7 @@
   <a href="mailto:edsnkvn@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  [![committers.top badge](https://user-badge.committers.top/rwanda_public/codeWithEdison.svg)](https://user-badge.committers.top/rwanda_public/codeWithEdison)
   <img src="https://komarev.com/ghpvc/?username=codeWithEdison&color=00C4CC&style=for-the-badge" alt="Profile views" />
 </div>
 
